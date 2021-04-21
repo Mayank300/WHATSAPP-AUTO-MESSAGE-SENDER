@@ -1,2 +1,2 @@
 import pywhatkit
-pywhatkit.sendwhatmsg('+917353692678', 'Hi Mummy! Khane ma kya ha????', 13, 27)
+pywhatkit.sendwhatmsg('YOUR NUMBER + COUNTRY CODE', 'Hi Mummy! Khane ma kya ha????', HOURS IN 24 CLOCK, MINUTES IN 24 CLOCK)
